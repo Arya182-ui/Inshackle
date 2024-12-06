@@ -8,8 +8,8 @@ apt install openssl
 
 git clone https://github.com/SACHINSIROHI47/Inshackle.git
 
-cd inshakle
+cd inshackle
 
-chmod +x inshakle.sh
+chmod +x inshackle.sh
 
-bash insshakle.sh
+bash insshackle.sh
