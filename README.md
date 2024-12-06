@@ -12,4 +12,4 @@ cd inshackle
 
 chmod +x inshackle.sh
 
-bash insshackle.sh
+bash inshackle.sh
